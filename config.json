@@ -1,0 +1,11 @@
+{
+    "train_name": "ml-1m/training-1.csv",
+    "separator": ",",
+    "test_name": "ml-1m/test-1.csv",
+    "skip": false,
+    "lower_bound": 4,
+    "user_id": 4000,
+    "no_of_movies": 10,
+    "sim": 1,
+    "recommend": true
+}
